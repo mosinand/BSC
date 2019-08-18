@@ -85,6 +85,7 @@
 		01CDBB382309E4A0001C70A2 /* NotesApiMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesApiMock.swift; sourceTree = "<group>"; };
 		01CDBB3A2309E4FB001C70A2 /* NotesListRouterMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesListRouterMock.swift; sourceTree = "<group>"; };
 		01CDBB3D2309E59B001C70A2 /* NoteMock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteMock.swift; sourceTree = "<group>"; };
+		01CDBB3F2309E7B1001C70A2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		01F3FAE02309466000CC532F /* NotesListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotesListVC.swift; sourceTree = "<group>"; };
 		01F3FAE12309466000CC532F /* NotesListVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NotesListVC.xib; sourceTree = "<group>"; };
 		01F3FAE52309819A00CC532F /* BaseRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseRouter.swift; sourceTree = "<group>"; };
@@ -119,6 +120,7 @@
 		0108C5A323047327004F04DD = {
 			isa = PBXGroup;
 			children = (
+				01CDBB3F2309E7B1001C70A2 /* README.md */,
 				0108C5AE23047327004F04DD /* BSC */,
 				0108C5C323047328004F04DD /* BSCTests */,
 				0108C5AD23047327004F04DD /* Products */,
